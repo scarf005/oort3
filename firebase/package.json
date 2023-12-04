@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "firebase-admin": "^9.11.0",
+    "firebase-admin": "^11.11.1",
     "firebase-tools": "^9.16.0",
     "inotify": "git+https://github.com/c4milo/node-inotify.git"
   }
